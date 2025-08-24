@@ -1,4 +1,4 @@
-# Tactical Tide
+# Full Stack Chess Application
 An Online multiplayer chess game. You can play against your friend or against the computer.
 
 <details open="open">
